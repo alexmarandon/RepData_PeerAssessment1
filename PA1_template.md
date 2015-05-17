@@ -1,7 +1,7 @@
 # Reproducible Research: Peer Assessment 1
 
 
-This markdown file represent my submission for the Peer Assessment 1 of the Reproducible Research Class on Coursera.
+This markdown file represents my submission for the Peer Assessment 1 of the Reproducible Research Class on Coursera.
 
 In order for the script to work, the activity.csv file needs to be in the same directory, and the ggplot2 and dplyr package are required.
 
